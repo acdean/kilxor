@@ -14,7 +14,7 @@
 // /ogs$/	- match end of name
 // /^koogs$/	- match entire name
 // /\uABCD/	- match unicode character ABCD (hexadecimal)
-var fules = [/noob/, /luser_name_here];
+var fules = [/noob/, /luser_name_here/];
 
 // set to true if you want no mention of deleted posts
 var nuke = true;
